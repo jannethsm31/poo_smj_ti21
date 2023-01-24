@@ -8,8 +8,18 @@
     caractéres.
 """
 
-variable1 = "Hola"  # Variable que alamacena una cadena de carácteres
+"""
+variable1 = "Hola"  # Variable que alamacena una cadena de carácteres (str)
 
-variable2 = " Python"  # Variable que alamcena una cadena de carácteres
+variable2 =  '619'  # Variable que alamacena una cadena de carácteres 
+
+print( variable1 + variable2 ) #Concatena 2 cadenas
+
+Si usamos un entero para concatenar str no funciona
+"""
+
+variable1 = "Hola"  # Variable que alamacena una cadena de carácteres (str)
+
+variable2 =  '619'  # Variable que alamacena una cadena de carácteres 
 
 print( variable1 + variable2 ) #Concatena 2 cadenas
