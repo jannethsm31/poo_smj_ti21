@@ -7,3 +7,4 @@
 |3.|programa2.py|Concatenación con formato srt|
 |4.|programa3.py|Operaciones aritméticas/ print|
 |5.|programa4.py|.format|
+|6.|programa5.py|Uso de .input y casting|
