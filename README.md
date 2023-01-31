@@ -8,3 +8,4 @@
 |4.|programa3.py|Operaciones aritméticas/ print|
 |5.|programa4.py|.format|
 |6.|programa5.py|Uso de .input y casting|
+|7.|programa6.py|Programa para area y perimetro de un triángulo|
