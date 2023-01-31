@@ -18,14 +18,14 @@ if eligio=="1": #Qué sucederá al escoger la primera opción
   lado2 = float(input("Medida del segundo lado : ")) # Almacena    la variable del segundo lado
   lado3 = float(input("Medida del tercer lado : ")) #Almacena     en la tercera variable
 
-  perimetro = lado1 + lado2 + lado3 # calcula el perímetro        sumando los lados ingresados
+  perimetro = lado1 + lado2 + lado3 # Calcula el perímetro        sumando los lados ingresados
   s = perimetro / 2 # Divide y alamcena en una variable el        perimetro entre 2
   area = (s * (s - lado1) * (s - lado2) * (s - lado3)) ** 0.5 #   Almacena el resultado del área 
 
-  print("El perimetro es = {}" .format(perimetro))
-  print("El area es = {}" .format(area))
+  print("El perimetro es = {}".format(perimetro)) #     Imprime el perimetro del triángulo
+  print("El area es = {}" .format(area)) # Imprime el área del triangulo
 
-elif eligio=="2":
+elif eligio=="2": # Realiza apartir de la segunda opción
 
   print("Ingresa las medidas")
 
