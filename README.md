@@ -12,3 +12,4 @@
 |8.|programa7.py|Programa area y perimetro de circulo y cuadrado|
 |9.|programa8.py|Identifica que número es mayor|
 |10.|programa9.py|Identifica número mayor (diversas formas)|
+|11.|programa10.py|Funciones 
